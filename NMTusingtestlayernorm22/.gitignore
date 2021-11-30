@@ -1,0 +1,6 @@
+/bin
+/build
+/out
+sample/train/iwlst14de-en.train.log
+/models
+/source/niutensor/
